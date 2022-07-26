@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "tweetPic": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "xxxxx",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "elongate",
+      "tweetPic": "https://images.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "yyyy",
+      "author": "idongesit"
+    },
+    {
+      "id": 6,
+      "title": "elongateeeeeeed",
+      "tweetPic": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "test",
+      "author": "idongesitmike"
+    },
+    {
+      "id": "45",
+      "title": "weeee",
+      "tweetPic": "https://images.pexels.com/photos/37833/rainbow-lorikeet-parrots-australia-rainbow-37833.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "werttyyyy",
+      "author": "effff"
+    },
+    {
+      "id": "56",
+      "title": "wed err",
+      "tweetPic": "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "wessss",
+      "author": ""
+    },
+    {
+      "id": "23",
+      "title": "Ehnay",
+      "tweetPic": "https://images.pexels.com/photos/52961/antelope-nature-flowers-meadow-52961.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "I have a very big God",
+      "author": "Mikey"
+    },
+    {
+      "id": "67",
+      "title": "This is a real test run",
+      "tweetPic": "https://images.pexels.com/photos/33152/european-rabbits-bunnies-grass-wildlife.jpg?auto=compress&cs=tinysrgb&w=600",
+      "text": "I can't imagine I did this without assistance, I believe I have started to get a grasp of this with the help of Stackoverflow and google",
+      "author": "Ugochukwu"
+    },
+    {
+      "id": "68",
+      "title": "Chicken Playing",
+      "tweetPic": "https://images.pexels.com/photos/1216482/pexels-photo-1216482.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "author": "Makanaki"
+    },
+    {
+      "id": "69",
+      "title": "Elephants Playing",
+      "tweetPic": "https://images.pexels.com/photos/3551498/pexels-photo-3551498.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sed elementum tempus egestas sed. Viverra tellus in hac habitasse platea dictumst. Viverra mauris in aliquam sem. Massa enim nec dui nunc mattis enim ut.",
+      "author": "Idongesit"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
